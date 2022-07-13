@@ -10,7 +10,7 @@ This project contains the following objectives:
 
 ## Project Architecture
 
-![Architeture Image](https://github.com/AbhixGupta/CI-CD_Ecommerce_Website/tree/master/architecture.png?raw=true)
+![Architeture Image](https://github.com/AbhixGupta/CI-CD_Ecommerce_Website/image/architecture.png?raw=true)
 
 ## Installation
 
