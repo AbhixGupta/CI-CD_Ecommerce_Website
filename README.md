@@ -18,7 +18,7 @@ We need to maintain the three servers in the AWS cloud. Each server is maintaine
 
 ### AWS Account Creation
 
-For aws Account creation you can find the installation documention from here.
+For aws Account creation you can find the installation documention from [here](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/).
 
 ### Jenikns Server
 
