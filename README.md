@@ -43,7 +43,9 @@ Now run the following command to make the jenkins to start whenever the system s
 ### Ansible Server
 
 Ansible is the congiguration Management Tool. Here we will use it for providing the configuration for the Docker and the Kubernetes conatiner and cluster respectively.
-First Launch the EC2 instance same as lauched for the jenkins server. Opent he port:8080.
+First Launch the EC2 instance same as lauched for the jenkins server.
+
+Open the port:8080.
 
 Now login as root user and add one user named as "ansibleadmin" and the password for this user.
 
